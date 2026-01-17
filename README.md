@@ -1,4 +1,4 @@
-<img width="184" height="202" alt="image" src="https://github.com/user-attachments/assets/f036be49-8814-4a51-8ff2-6803bd79ab3b" /># gps-tracker
+# gps-tracker
 Это прототип GPS трекера на esp32-cam (без камеры) и gps модуле neo-6m
 
 Схема подключения:
