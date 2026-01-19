@@ -24,15 +24,15 @@ IO12 → RX
    1.4 Скопируйте токен из ответа BotFather (формат: цифры:буквы_цифры)
 
 
-2. Получение Chat ID
-   2.1 Найдите в Telegram `@userinfobot`
-   2.2 Нажмите `Start`
+2. Получение Chat ID<br/>
+   2.1 Найдите в Telegram `@userinfobot`<br/>
+   2.2 Нажмите `Start`<br/>
    2.3 Бот автоматически отправит ваш Chat ID
 
 ```Примечание: Для групповых чатов или каналов Chat ID будет отрицательным.```
 
-Быстрый старт (Quick Start)
-Получите Bot Token и Chat ID (инструкция выше)
+## Quick Start
+Получите Bot Token и Chat ID ([инструкция выше](#sample-section))
 
 Подготовьте данные вашей Wi-Fi сети:
 
