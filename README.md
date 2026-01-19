@@ -15,15 +15,23 @@ IO12 → RX
 
 
 # Получение Bot Token и Chat ID
+
+
 1. Получение Bot Token
+   
   1.1 Найдите в Telegram @BotFather
+  
   1.2 Нажмите Start → введите команду /newbot
+  
   1.3 Укажите:
+  
     1. Имя бота (например: Мой GPS Трекер)
+    
     2. Юзернейм (латиница, должен заканчиваться на bot, например: my_gps_tracker_bot)
+    
   1.4 Скопируйте токен из ответа BotFather (формат: цифры:буквы_цифры)
 
-2. Получение Chat ID
+3. Получение Chat ID
 Найдите в Telegram @userinfobot
 
 Нажмите Start
