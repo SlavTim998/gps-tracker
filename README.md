@@ -2,6 +2,7 @@
 Это прототип GPS-трекера на ESP32-CAM (без использования камеры) и GPS-модуле NEO-6M.
 
 Схема подключения:
+'''bash
 ESP32-CAM → GPS NEO-6M
 
 3V3 → VCC
@@ -11,7 +12,7 @@ GND → GND
 IO13 → TX
 
 IO12 → RX
-
+'''
 <img width="950" height="629" alt="Схема подключения" src="https://github.com/user-attachments/assets/86b6694d-b846-4ad1-8eaf-babbd4b3b5aa" />
 Получение Bot Token и Chat ID
 1. Получение Bot Token
