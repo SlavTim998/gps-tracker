@@ -2,7 +2,7 @@
 Это прототип GPS-трекера на ESP32-CAM (без использования камеры) и GPS-модуле NEO-6M.
 
 Схема подключения:
-```bah
+```bash
 ESP32-CAM → GPS NEO-6M
 3V3 → VCC
 GND → GND
