@@ -9,20 +9,19 @@ GND → GND
 IO13 → TX
 IO12 → RX
 ```
+
+
 <img width="950" height="629" alt="Схема подключения" src="https://github.com/user-attachments/assets/86b6694d-b846-4ad1-8eaf-babbd4b3b5aa" />
-Получение Bot Token и Chat ID
+
+
+# Получение Bot Token и Chat ID
 1. Получение Bot Token
-Найдите в Telegram @BotFather
-
-Нажмите Start → введите команду /newbot
-
-Укажите:
-
-Имя бота (например: Мой GPS Трекер)
-
-Юзернейм (латиница, должен заканчиваться на bot, например: my_gps_tracker_bot)
-
-Скопируйте токен из ответа BotFather (формат: цифры:буквы_цифры)
+  1.1 Найдите в Telegram @BotFather
+  1.2 Нажмите Start → введите команду /newbot
+  1.3 Укажите:
+    1. Имя бота (например: Мой GPS Трекер)
+    2. Юзернейм (латиница, должен заканчиваться на bot, например: my_gps_tracker_bot)
+  1.4 Скопируйте токен из ответа BotFather (формат: цифры:буквы_цифры)
 
 2. Получение Chat ID
 Найдите в Telegram @userinfobot
