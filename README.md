@@ -11,7 +11,7 @@ IO12 → RX
 ```
 
 
-<img width="950" height="629" alt="Схема подключения" src="https://github.com/user-attachments/assets/86b6694d-b846-4ad1-8eaf-babbd4b3b5aa" />
+<img width="900" height="579" alt="Схема подключения" src="https://github.com/user-attachments/assets/86b6694d-b846-4ad1-8eaf-babbd4b3b5aa" />
 
 
 ## Получение Bot Token и Chat ID
