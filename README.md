@@ -36,11 +36,10 @@ IO12 → RX
 2. Подготовьте данные вашей Wi-Fi сети: SSID (название сети), пароль от сети
 3. В файле кода найдите и замените следующие значения:
 ```cpp
-// Вставьте ваши данные:
-const char* ssid = "ВАШ_SSID";
-const char* password = "ВАШ_ПАРОЛЬ";
-const char* BOT_TOKEN = "ВАШ_BOT_TOKEN";
-const char* CHAT_ID = "ВАШ_CHAT_ID";
+const char* ssid = "SSID (название) вашей сети";
+const char* password = "Пароль от вашей сети";
+#define BOT_TOKEN "Ваш BOT TOKEN (получаем здесь @BotFather)"
+#define CHAT_ID "Ваш CHAT ID (получаем здесь @userinfobot)"
 ```
 4. Загрузите код на ESP32-CAM
 
